@@ -2,6 +2,7 @@ Name: Narmadha M
 Id:ICOD7186 
 Domain:Web development 
 Mentor:Neela Harish 
+Title: weather forecast webpage
 Description:
       As the sun sets on another day, it's time to peer into the atmospheric crystal ball and uncover what Mother Nature has in store for us. Across the globe, weather patterns dance and intertwine, shaping our daily lives in subtle yet significant ways. From the balmy shores of tropical paradises to the snow-capped peaks of majestic mountains, each region boasts its own unique meteorological symphony.
 
